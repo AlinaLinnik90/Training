@@ -1,7 +1,10 @@
 package demo;
 
-public class Main {
+public class Sort {
     public static void main(String[] args) {
+
+        Sort main = new Sort();
+
         int[] array = {30, 2, 10, 4, 6};
         int length = array.length;
         boolean isSorted = false;
