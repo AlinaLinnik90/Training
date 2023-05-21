@@ -1,6 +1,6 @@
 package demo;
 
-public class Main {
+public class Sorted {
     public static void main(String[] args) {
         int[] array = {30, 2, 10, 4, 6};
         int length = array.length;
