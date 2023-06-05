@@ -1,5 +1,6 @@
 package demo;
 
+import com.task3.linkedlist.LinkedList;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
